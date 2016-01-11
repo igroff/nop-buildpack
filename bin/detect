@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+# I do nothing, so everything is always a valid nop ap
+exit 0

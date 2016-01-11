@@ -1,0 +1,6 @@
+#! /usr/bin/env bash
+
+BUILD_DIR=$1
+CACHE_DIR=$2
+# I don't do jack, so it's always good
+exit 0
